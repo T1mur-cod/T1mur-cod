@@ -68,11 +68,15 @@
   ![Gilab](https://img.shields.io/badge/gitlab-20232A?style=for-the-badge&logo=gitlab)
   ![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)
 
+  <br><br>
+
 </div>
 
 <div align="center">
 
-  <br> <br>
+<img src="https://github.com/T1mur-cod/T1mur-cod/blob/master/assets/BtdS.gif" alt="header"/>
+
+<br> <br>
 
   ![](https://visitor-badge.glitch.me/badge?page_id=T1mur-cod)
 
