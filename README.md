@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://github.com/T1mur-cod/T1mur-cod/blob/master/assets/giphy.gif" alt="header"/>
-</div>
 
 
 <h2 align="center">Hi there!✌🏼</h2>
@@ -76,8 +73,6 @@
 </div>
 
 <div align="center">
-
-<img src="https://github.com/T1mur-cod/T1mur-cod/blob/master/assets/BtdS.gif" alt="header"/>
 
 <br> <br>
 
