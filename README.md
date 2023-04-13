@@ -3,7 +3,6 @@
 <h2 align="center">Hi there!✌🏼</h2>
 <p align="center">
   <samp>My name is Timur, I'm from Moscow! <br> <br> I am a Fullstack JavaScript developer. <br>
-  Love Backend.
   </samp>
   <br> <br>
 </p>
