@@ -8,14 +8,6 @@
 </p>
 
 
-<h2 align="center">My projects 👨‍💻</h2>
-
-<p align="center">
-  <samp>Check out my projects: <a href="https://github.com/T1mur-cod/MeTimeBack" target="_blank">MeTime</a>
-  </samp>
-  <br> <br>
-</p>
-
 
 <h2 align="center">💬 Reach me on</h2>
 
