@@ -2,7 +2,15 @@
 
 <h2 align="center">Hi there!✌🏼</h2>
 <p align="center">
-  <samp>My name is Timur, I'm from Moscow! <br> <br> I am a Fullstack JavaScript developer. <br>
+  <samp>
+    My name is Timur, I'm from Moscow! 
+    <br> 
+    モスクワ出身のティムールです！
+    <br> 
+    <br> 
+    I am a Fullstack JavaScript developer. 
+    <br>
+    フルスタックのJavaScript開発者です。
   </samp>
   <br> <br>
 </p>
